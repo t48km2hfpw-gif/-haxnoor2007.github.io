@@ -1,10 +1,9 @@
-# -haxnoor2007.github.io
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NOVA DRONE — Futuristic Aerial Solutions</title>
+    <title>MARTIAN DRONE — Futuristic Aerial Solutions</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
     <style>
         /* ───────── RESET & BASE ───────── */
